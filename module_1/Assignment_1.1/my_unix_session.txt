@@ -1,0 +1,950 @@
+Script started on 2024-09-30 22:08:42+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="156" LINES="41"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-09-30 22:14:02+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-10-03 10:09:41+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mminiconda3[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ cd ~/mt[Knt/e
+[?2004lbash: cd: /home/mopu/mnt/e: No such file or directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ mnt[K[K[Kcd mnt/e
+[?2004lbash: cd: mnt/e: No such file or directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ pwd
+[?2004l/home/mopu
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ /mnt[K[K[K[Kcd /mnt/e
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e[00m$ ls
+[?2004l[0m[34;42m'$RECYCLE.BIN'[0m  [34;42m'Internship prep'[0m                     [34;42m'Web Dev'[0m            [34;42m'nord backup'[0m           [34;42m'samsung Intern'[0m
+ [34;42mDzuko[0m          [34;42m'Placement prep'[0m                      [34;42m'ankur warikoo'[0m      [34;42m'organizing templates'[0m  [34;42m'tiger training'[0m
+[34;42m'Ec Club'[0m        [34;42mRefactored_Py_DS_ML_Bootcamp-master[0m   [34;42mlabs[0m                 [34;42mpractices[0m              [34;42m'video editing'[0m
+[34;42m'IIT FILES'[0m     [01;34m'System Volume Information'[0m           [34;42m'linkedin building'[0m   [34;42mptrip[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e[00m$ cd -
+[?2004l/home/mopu
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ script exit[K[K[K[K[K[K[K[K[K[K[K [Kexit
+[?2004lexit
+
+Script done on 2024-10-03 10:12:15+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-10-03 10:14:56+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ pwd
+[?2004l/home/mopu
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ cd /mnt/e
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e[00m$ ls -F
+[?2004l[0m[34;42m'$RECYCLE.BIN'[0m/     [34;42m'Placement prep'[0m/                       [34;42mlabs[0m/                    [34;42mptrip[0m/
+ [34;42mDzuko[0m/              [34;42mRefactored_Py_DS_ML_Bootcamp-master[0m/  [34;42m'linkedin building'[0m/     [34;42m'samsung Intern'[0m/
+[34;42m'Ec Club'[0m/          [01;34m'System Volume Information'[0m/           [34;42m'nord backup'[0m/           [34;42m'tiger training'[0m/
+[34;42m'IIT FILES'[0m/        [34;42m'Web Dev'[0m/                             [34;42m'organizing templates'[0m/  [34;42m'video editing'[0m/
+[34;42m'Internship prep'[0m/  [34;42m'ankur warikoo'[0m/                        [34;42mpractices[0m/
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e[00m$ cd -
+[?2004l/home/mopu
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ pwd^?[K[K[K[Kcd "/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/"
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1[00m$ ls nor[K[K[K
+[?2004l[0m[01;32mmy_unix_session.txt[0m  [34;42mshell-lesson-data[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1[00m$ cd shell_lesson[K[K[K[K[K[K[K-lesson-data
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ ls north-pacific-gyre/
+NENE01729A.txt  NENE01751A.txt  NENE01843A.txt  NENE01978A.txt  NENE02040A.txt  NENE02043A.txt  goostats.sh
+NENE01729B.txt  NENE01751B.txt  NENE01843B.txt  NENE01978B.txt  NENE02040B.txt  NENE02043B.txt  
+NENE01736A.txt  NENE01812A.txt  NENE01971Z.txt  NENE02018B.txt  NENE02040Z.txt  goodiff.sh      
+(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ ls north-pacific-gyre/
+NENE01729A.txt  NENE01751A.txt  NENE01843A.txt  NENE01978A.txt  NENE02040A.txt  NENE02043A.txt  goostats.sh
+NENE01729B.txt  NENE01751B.txt  NENE01843B.txt  NENE01978B.txt  NENE02040B.txt  NENE02043B.txt  
+NENE01736A.txt  NENE01812A.txt  NENE01971Z.txt  NENE02018B.txt  NENE02040Z.txt  goodiff.sh      
+(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ ls north-pacific-gyre/
+NENE01729A.txt  NENE01751A.txt  NENE01843A.txt  NENE01978A.txt  NENE02040A.txt  NENE02043A.txt  goostats.sh
+NENE01729B.txt  NENE01751B.txt  NENE01843B.txt  NENE01978B.txt  NENE02040B.txt  NENE02043B.txt  
+NENE01736A.txt  NENE01812A.txt  NENE01971Z.txt  NENE02018B.txt  NENE02040Z.txt  goodiff.sh      
+(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ ls north-pacific-gyre/goo
+goodiff.sh   goostats.sh  
+(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ ls north-pacific-gyre/goo
+goodiff.sh   goostats.sh  
+(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ ls north-pacific-gyre/goo
+goodiff.sh   goostats.sh  
+(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ ls north-pacific-gyre/gooclear
+[?2004lls: cannot access 'north-pacific-gyre/gooclear': No such file or directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ cd -
+[?2004l/mnt/e/tiger training/tamlep/module_1/Assignment_1.1
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1[00m$ cd seh[K[Khell-lesson-data
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ [7mpwd[27mpwd
+[?2004l/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ [7mcd exercise-data/wri[27m[7mt[27m[7ming/[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ cd exercise-data/writing/
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mls -F[27m[C[Cls -F
+[?2004l[0m[01;32mLittleWomen.txt[0m*  [01;32mhaiku.txt[0m*
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mmkdir thesis[27m[C[Cmkdir thesis
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mls -F[27m[C[Cls -F
+[?2004l[0m[01;32mLittleWomen.txt[0m*  [01;32mhaiku.txt[0m*  [34;42mthesis[0m/
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mls -F thesis[27m[C[Cls -F thesis
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7m$ mkdir -p ../project/data ../project/results[27m[C[C$ mkdir -p ../project/data ../project/results
+[?2004l$: command not found
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7m mkdir -p ../project/data ../project/results[27m[C[C mkdir -p ../project/data ../project/results
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mls -FR ../project[27m[C[Cls -FR ../project
+[?2004l../project:
+[0m[34;42mdata[0m/  [34;42mresults[0m/
+
+../project/data:
+
+../project/results:
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ cd thesis
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[00m$ nano draft.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                                            draft.txt                                                     [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;69H(B[0;7m*[119G(B[m[?12l[?25h[2di[?25l[?12l[?25ht[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[28d[K[?12l[?25h[2;5Hn[?25l[?12l[?25ho[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25hp[?25l[?12l[?25hu[?25l[?12l[?25hs[?25l[?12l[?25hb[?25l[?12l[?25hl[?25l[?12l[?25hi[?25l[?12l[?25hs[?25l[?12l[?25hh[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25hr[?25l[?12l[?25h [?25l[?12l[?25hp[?25l[?12l[?25he[?25l[?12l[?25hr[?25l[?12l[?25hi[?25l[?12l[?25hs[?25l[?12l[?25hh[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25hy[?25l[?12l[?25h [?25l[?12l[?25hm[?25l[?12l[?25ho[?25l[?12l[?25hr[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25h [?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25hs[?25l[?12l[?25hh[?25l[?12l[?25ha[?25l[?12l[?25hr[?25l[?12l[?25he[?25l[?12l[?25ha[?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25hd[?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25hr[?25l[?12l[?25hi[?25l[?12l[?25hv[?25l[?12l[?25he[?25l[3d[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: draft.txt                                                                                           [28;30H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;69H(B[0;7m [119G(B[m[28;52H(B[0;7m[ Wrote 2 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[3d[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: draft.txt                                                                                           [28;30H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l(B[0;7m (B[m[?12l[?25h[?25l(B[0;7mt(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;119H[28;52H(B[0;7m[ Wrote 2 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[3d[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[00m$ [7mls[27mls
+[?2004l[0m[01;32mdraft.txt[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[00m$ [7mtouch my_file.txt[27m[C[C[C[C[C[C[C[C[Ctouch my_file.txt
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[00m$ ls -l
+[?2004ltotal 0
+-rwxrwxrwx 1 mopu mopu 58 Oct  3 11:08 [0m[01;32mdraft.txt[0m
+-rwxrwxrwx 1 mopu mopu  0 Oct  3 11:09 [01;32mmy_file.txt[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[00m$ [7mrm my_file.txt[27m[C[C[C[C[C[C[C[C[Crm my_file.txt
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing/thesis[00m$ cd "[K..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ cd ..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ cd ..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ cd -
+[?2004l/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ cd -
+[?2004l/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ cd -
+[?2004l/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ cd -
+[?2004l/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ cd -
+[?2004l/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ cd /wr iting
+[?2004lbash: cd: /writing: No such file or directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ cd wri ting
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mmv thesis/draft.txt thesis/quotes.txt[27m[C[Cmv thesis/draft.txt thesis/quotes.txt
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mls thesis[27m[C[Cls thesis
+[?2004l[0m[01;32mquotes.txt[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mmv thesis/quotes.txt .[27m[C[Cmv thesis/quotes.txt .
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mls thesis[27m[C[Cls thesis
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mcp quotes.txt thesis/quotations.txt[27m[C[Ccp quotes.txt thesis/quotations.txt
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mls quotes.txt thesis/quotations.txt[27m[C[Cls quotes.txt thesis/quotations.txt
+[?2004l[0m[01;32mquotes.txt[0m  [01;32mthesis/quotations.txt[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ ls thesis
+[?2004l[0m[01;32mquotations.txt[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mcp -r thesis thesis_backup[27m[C[Ccp -r thesis thesis_backup
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mls thesis thesis_backup[27m[C[Cls thesis thesis_backup
+[?2004lthesis:
+[0m[01;32mquotations.txt[0m
+
+thesis_backup:
+[01;32mquotations.txt[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mrm quotes.txt[27m[C[Crm quotes.txt
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mls quotes.txt[27m[C[Cls quotes.txt
+[?2004lls: cannot access 'quotes.txt': No such file or directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mrm thesis[27m[C[Crm thesis
+[?2004lrm: cannot remove 'thesis': Is a directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mrm -r thesis[27m[C[Crm -r thesis[C thesis- thesisi thesis
+[?2004lrm: descend into directory 'thesis'? y
+rm: remove regular file 'thesis/quotations.txt'? y
+rm: remove directory 'thesis'? y
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ cd ..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ [7mmkdir [27m[7mb[27m[7mackup[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ mkdir backup
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ [7mcp cre[27m[7ma[27m[7mtures/minotaur.dat creatures/unicorn.dat backup/[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ cp creatures/minotaur.dat creatures/unicorn.dat backup/
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ cd alk s[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ck anes
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes
+[00m$ [K[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [K(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mls[27mls
+[?2004l[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mwc cubane.pdb[27mwc cubane.pdb
+[?2004l  20  156 1158 cubane.pdb
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mwc *.pdb[27mwc *.pdb
+[?2004l  20  156 1158 cubane.pdb
+  12   84  622 ethane.pdb
+   9   57  422 methane.pdb
+  30  246 1828 octane.pdb
+  21  165 1226 pentane.pdb
+  15  111  825 propane.pdb
+ 107  819 6081 total
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mwc -l *.pdb[27mwc -l *.pdb
+[?2004l  20 cubane.pdb
+  12 ethane.pdb
+   9 methane.pdb
+  30 octane.pdb
+  21 pentane.pdb
+  15 propane.pdb
+ 107 total
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ we[Kc -m *.pdb # shows only number of  characters
+[?2004l1158 cubane.pdb
+ 622 ethane.pdb
+ 422 methane.pdb
+1828 octane.pdb
+1226 pentane.pdb
+ 825 propane.pdb
+6081 total
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ we -[K[K[Kc - w*.pdb[C *.pdb[C[C[C[C[C # only number of word s
+[?2004l^[  skaxm     
+
+
+
+^[[D\\      ^[[A^[[A^[[A^[[A                stop
+clear
+exit
+^C
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ wc -w *.pdb
+[?2004l 156 cubane.pdb
+  84 ethane.pdb
+  57 methane.pdb
+ 246 octane.pdb
+ 165 pentane.pdb
+ 111 propane.pdb
+ 819 total
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7m wc -l *.pdb > lengths.txt[27m wc -l *.pdb > lengths.txt
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mls lengths.txt[27mls lengths.txt
+[?2004l[0m[01;32mlengths.txt[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mcat lengths.txt[27mcat lengths.txt
+[?2004l  20 cubane.pdb
+  12 ethane.pdb
+   9 methane.pdb
+  30 octane.pdb
+  21 pentane.pdb
+  15 propane.pdb
+ 107 total
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7msort -n lengths.txt[27msort -n lengths.txt
+[?2004l   9 methane.pdb
+  12 ethane.pdb
+  15 propane.pdb
+  20 cubane.pdb
+  21 pentane.pdb
+  30 octane.pdb
+ 107 total
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7msort -n lengths.txt > sorted-lengt[27m[7mh[27m[7ms.txt[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ sort -n lengths.txt > sorted-lengths.txt
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mhead -n 1 sorted-lengths.txt[27mhead -n 1 sorted-lengths.txt
+[?2004l   9 methane.pdb
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7m$ sort -n lengths.txt > lengths.tx[27m[7mt[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ $ sort -n lengths.txt > lengths.txt
+[?2004l$: command not found
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7msort -n lengths.txt > lengths.txt[27msort -n lengths.txt > lengths.txt
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7msort -n lengths.txt | head -n 1[27msort -n lengths.txt | head -n 1
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7msort -n lengths.txt | head -n 1[27msort -n lengths.txt | head -n 1
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7m wc -l *.pdb | sort -n[27m wc -l *.pdb | sort -n
+[?2004l   9 methane.pdb
+  12 ethane.pdb
+  15 propane.pdb
+  20 cubane.pdb
+  21 pentane.pdb
+  30 octane.pdb
+ 107 total
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mwc -l *.pdb | sort -n | head -n 1[27mwc -l *.pdb | sort -n | head -n 1
+[?2004l   9 methane.pdb
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mcut -d , -f 2 animals.csv[27mcut -d , -f 2 animals.csv # -d as  selimeter and [K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[Kas  delimeter and -f as the column name [K[K[K[Kumber 
+[?2004lcut: animals.csv: No such file or directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ cd ..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ ania[Kmal_counts/ania[K[K[K[K[K
+[?2004lanimal_counts: command not found
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ cd animal-counts
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[00m$ [7mcut -d , -f 2 animals.csv # [27m[7m-[27m[7md as delimeter and -f as the column number[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[00m$ cut -d , -f 2 animals.csv # -d as delimeter and -f as the column number
+[?2004ldeer
+rabbit
+raccoon
+rabbit
+deer
+fox
+rabbit
+bear
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[00m$ [7mcut -d, -f 2 animals.csv | u[27m[7mn[27m[7miq -c[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[00m$ cut -d, -f 2 animals.csv | uniq -c
+[?2004l      1 deer
+      1 rabbit
+      1 raccoon
+      1 rabbit
+      1 deer
+      1 fox
+      1 rabbit
+      1 bear
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[00m$ [7mcut -d, -f 2 animals.csv | s[27m[7mo[27m[7mrt | uniq -c[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[00m$ cut -d, -f 2 animals.csv | so[1Prt | uniq -[K[K[K[K[K[K[K[K
+[?2004lbear
+deer
+deer
+fox
+rabbit
+rabbit
+rabbit
+raccoon
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[00m$ [7m cut -d, -f 2 animals.csv | [27m[7ms[27m[7mort[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[00m$  cut -d, -f 2 animals.csv | sort | uniq -c
+[?2004l      1 bear
+      2 deer
+      1 fox
+      3 rabbit
+      1 raccoon
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/animal-counts[00m$ cd ..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ cd ..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ cd north-pacific-gyre/
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mwc -l *.txt[27mwc -l *.txt
+[?2004l  300 NENE01729A.txt
+  300 NENE01729B.txt
+  300 NENE01736A.txt
+  300 NENE01751A.txt
+  300 NENE01751B.txt
+  300 NENE01812A.txt
+  300 NENE01843A.txt
+  300 NENE01843B.txt
+  300 NENE01971Z.txt
+  300 NENE01978A.txt
+  300 NENE01978B.txt
+  240 NENE02018B.txt
+  300 NENE02040A.txt
+  300 NENE02040B.txt
+  300 NENE02040Z.txt
+  300 NENE02043A.txt
+  300 NENE02043B.txt
+ 5040 total
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mwc -l *.txt | sort -n | head -n 5[27mwc -l *.txt | sort -n | head -n 5
+[?2004l  240 NENE02018B.txt
+  300 NENE01729A.txt
+  300 NENE01729B.txt
+  300 NENE01736A.txt
+  300 NENE01751A.txt
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mls *Z.txt[27mls *Z.txt
+[?2004l[0m[01;32mNENE01971Z.txt[0m  [01;32mNENE02040Z.txt[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mls *Z.txt[27m[1Pls *Z.tx[K[K[K[K[K[K[K[Kcd ..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ excercise-data/[C[C[C[C
+[?2004lbash: excercise-data/: No such file or directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ cd excercise-data/creatures
+[?2004lbash: cd: excercise-data/creatures: No such file or directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ cd excercise-data/
+[?2004lbash: cd: excercise-data/: No such file or directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ cd exercise-data.[K/creatures
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ [7mhead -n 5 basilisk.dat minotaur.[27m[7md[27m[7mat unicorn.dat[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ head -n 5 basilisk.dat minotaur.dat unicorn.dat
+[?2004l==> basilisk.dat <==
+COMMON NAME: basilisk
+CLASSIFICATION: basiliscus vulgaris
+UPDATED: 1745-05-02
+CCCCAACGAG
+GAAACAGATC
+
+==> minotaur.dat <==
+COMMON NAME: minotaur
+CLASSIFICATION: bos hominus
+UPDATED: 1765-02-17
+CCCGAAGGAC
+CGACATCTCT
+
+==> unicorn.dat <==
+COMMON NAME: unicorn
+CLASSIFICATION: equus monoceros
+UPDATED: 1738-11-24
+AGCCGGGTCG
+CTTTACCTTA
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ [7mfor filename in basilisk.dat min[27m[7mo[27m[7mtaur.dat unicorn.dat [27m
+[7m> do[27m
+[7m>     echo $filename[27m
+[7m>     head -n 2 $filename | tail -n 1[27m
+[7m> done[27m[A[A[A[A[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ for filename in basilisk.dat minotaur.dat unicorn.dat
+> do
+>     echo $filename
+>     head -n 2 $filename | tail -n 1
+> done
+[?2004lbash: syntax error near unexpected token `>'
+-n: command not found
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ for filename in basilisk.dat min otaur.dat unicorn.dat
+[?2004l[?2004h> do
+[?2004l[?2004h> ^C[?2004l[?2004h^C[?2004l[?2004h^C[?2004l[?2004h^C[?2004l[?2004hkillkillkill pID
+[?2004l
+illkillkill: command not found
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ 
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ 
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ 
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ 
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ 
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ 
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ 
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ [7mfor filename in basilisk.dat min[27m[7mo[27m[7mtaur.dat unicorn.dat [27m
+[7m> do[27m
+[7m>     echo $filename[27m
+[7m>     head -n 2 $filename | tail -n 1[27m
+[7m> done[27m[A[A[A[A[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ for filename in basilisk.dat minotaur.dat unicorn.dat
+> do
+>     echo $filename
+>     head -n 2 $filename | tail -n 1
+> done
+[?2004lbash: syntax error near unexpected token `>'
+-n: command not found
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ [7m for filename in basilisk.dat mi[27m[7mn[27m[7motaur.dat unicorn.dat[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$  for filename in basilisk.dat minotaur.dat unicorn.dat
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $filename
+[?2004l[?2004h> head -n 2 $filename ?[K| tail -n 1
+[?2004l[?2004h> done
+[?2004lbasilisk.dat
+CLASSIFICATION: basiliscus vulgaris
+minotaur.dat
+CLASSIFICATION: bos hominus
+unicorn.dat
+CLASSIFICATION: equus monoceros
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ [7mfor filename in basilisk.dat min[27m[7mo[27m[7mtaur.dat unicorn.dat[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ for filename in basilisk.dat minotaur.dat unicorn.dat
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $ filename
+[?2004l[?2004h> head -n 3 $ filename | tail -n 1
+[?2004l[?2004h> done
+[?2004l$ filename
+head: cannot open '$' for reading: No such file or directory
+head: cannot open 'filename' for reading: No such file or directory
+$ filename
+head: cannot open '$' for reading: No such file or directory
+head: cannot open 'filename' for reading: No such file or directory
+$ filename
+head: cannot open '$' for reading: No such file or directory
+head: cannot open 'filename' for reading: No such file or directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ [7mfor loop_variable in 0 1 2 3 4 5[27m[7m [27m[7m6 7 8 9[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ for loop_variable in 0 1 2 3 4 5 6 7 8 9
+[?2004l[?2004h> do
+[?2004l[?2004h>     echo ${loop varibales[K[K[K[K[K[K[K[K[K[K_variables)
+[?2004l[?2004h> done
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ [7mfor loop_variable in 0 1 2 3 4 5[27m[7m [27m[7m6 7 8 9[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ for loop_variable in 0 1 2 3 4 5 6 7 8 9
+[?2004l[?2004h> do
+[?2004l[?2004h>    echo &[K${}l}o}o}p}_}v}a}r}i}b}[1P}a}b}l}e}s}[C
+[?2004l[?2004h> cone[K[K[K[Kdone
+[?2004l
+
+
+
+
+
+
+
+
+
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ for [K[K[K[K[7mfor loop_variable in 0 1 2 3 4 5[27m[7m [27m[7m6 7 8 9[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ for loop_variable in 0 1 2 3 4 5 6 7 8 9
+[?2004l[?2004h> do
+[?2004l[?2004h>   echo &[K$loop_variables
+[?2004l[?2004h> done
+[?2004l
+
+
+
+
+
+
+
+
+
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ [7mfor loop_variable in 0 1 2 3 4 5[27m[7m [27m[7m6 7 8 9[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ for loop_variable in 0 1 2 3 4 5 6 7 8 9
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $loop [K_variables
+[?2004l[?2004h> done
+[?2004l
+
+
+
+
+
+
+
+
+
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ [7mfor loop_variable in 0 1 2 3 4 5[27m[7m [27m[7m6 7 8 9[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ for loop_variable in 0 1 2 3 4 5 6 7 8 9
+[?2004l[?2004h> do
+[?2004l[?2004h>     echo ${}l}o}o}p}_}v}a}r}i}a}b}l}e}[C
+[?2004l[?2004h> done
+[?2004l0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ cd ..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ alkanes[K[K[K[K[K[K[Kcd alkanes/
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mfor datafile in *.pdb[27mfor datafile in *.pdb
+[?2004l[?2004h> do
+[?2004l[?2004h>    ls *.pdb
+[?2004l[?2004h> done
+[?2004l[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mfor datafile in *.pdb[27mfor datafile in *.pdb
+[?2004l[?2004h> do
+[?2004l[?2004h>     ls $dtat[K[K[Katafile
+[?2004l[?2004h> done
+[?2004l[0m[01;32mcubane.pdb[0m
+[0m[01;32methane.pdb[0m
+[0m[01;32mmethane.pdb[0m
+[0m[01;32moctane.pdb[0m
+[0m[01;32mpentane.pdb[0m
+[0m[01;32mpropane.pdb[0m
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mfor alkanes in *.pdb[27mfor alkanes in *.pdb
+[?2004l[?2004h> do
+[?2004l[?2004h>    echo $alj[Kkanes
+[?2004l[?2004h>    cat $alkanes > alkanes.pdb
+[?2004l[?2004h> done
+[?2004lcubane.pdb
+ethane.pdb
+methane.pdb
+octane.pdb
+pentane.pdb
+propane.pdb
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mfor filename in *.dat[27mfor filename in *.dat
+[?2004l[?2004h> do
+[?2004l[?2004h> [7m cp $filename original-$filename[27m[C[C cp $filename original-$filename
+[?2004l[?2004h> done
+[?2004lcp: cannot stat '*.dat': No such file or directory
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ cd ..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ cd creatures/
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ [7mfor filename in *.dat[27mfor filename in *.dat
+[?2004l[?2004h> do
+[?2004l[?2004h>   [7mcp $filename original-$filename[27m[C[C[C[Ccp $filename original-$filename
+[?2004l[?2004h> done
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/creatures[00m$ script[K[K[K[K[K[Kexit
+[?2004lexit
+
+Script done on 2024-10-03 13:16:35+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-10-03 13:21:27+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="156" LINES="41"]
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: ~[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m~[00m$ cd "/mnt/e/tiger training/tamlep/Assignment_1.1[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmodule_1/Assignment_1.1/shell-lesson-data"
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ cd north-pacific-gyre/
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mfor datafile in NENE*A.txt NENE*B.txt[27m [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfor datafile in NENE*A.txt NENE*B.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
+[?2004l[?2004h> do
+[?2004l[?2004h> ^C[?2004l[?2004h
+[?2004l
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mfor datafile in NENE*A.txt NENE*B.txt[27m [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfor datafile in NENE*A.txt NENE*B.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
+[?2004l[?2004h> do
+[?2004l[?2004h>    [7mecho $datafile[27m[C[C[C[C[Cecho $datafile
+[?2004l[?2004h> done
+[?2004lNENE01729A.txt
+NENE01736A.txt
+NENE01751A.txt
+NENE01812A.txt
+NENE01843A.txt
+NENE01978A.txt
+NENE02040A.txt
+NENE02043A.txt
+NENE01729B.txt
+NENE01751B.txt
+NENE01843B.txt
+NENE01978B.txt
+NENE02018B.txt
+NENE02040B.txt
+NENE02043B.txt
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mfor datafile in NENE*A.txt NENE*B.txt[27m [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfor datafile in NENE*A.txt NENE*B.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
+[?2004l[?2004h> do
+[?2004l[?2004h>    [7mecho $datafile stats-$datafile[27m[C[C[C[C[Cecho $datafile stats-$datafile
+[?2004l[?2004h> done
+[?2004lNENE01729A.txt stats-NENE01729A.txt
+NENE01736A.txt stats-NENE01736A.txt
+NENE01751A.txt stats-NENE01751A.txt
+NENE01812A.txt stats-NENE01812A.txt
+NENE01843A.txt stats-NENE01843A.txt
+NENE01978A.txt stats-NENE01978A.txt
+NENE02040A.txt stats-NENE02040A.txt
+NENE02043A.txt stats-NENE02043A.txt
+NENE01729B.txt stats-NENE01729B.txt
+NENE01751B.txt stats-NENE01751B.txt
+NENE01843B.txt stats-NENE01843B.txt
+NENE01978B.txt stats-NENE01978B.txt
+NENE02018B.txt stats-NENE02018B.txt
+NENE02040B.txt stats-NENE02040B.txt
+NENE02043B.txt stats-NENE02043B.txt
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ for datafile in NENE*A.txt NENE*B.txt; do    echo $datafile stats-$datafile; done[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[7mbash goostats.sh $datafile stats-$datafile[27m done[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@bash goostats.sh $datafile stats-$datafile:[1P done; done
+[?2004lNENE01729A.txt
+NENE01736A.txt
+NENE01751A.txt
+NENE01812A.txt
+NENE01843A.txt
+NENE01978A.txt
+NENE02040A.txt
+NENE02043A.txt
+NENE01729B.txt
+NENE01751B.txt
+NENE01843B.txt
+NENE01978B.txt
+NENE02018B.txt
+NENE02040B.txt
+NENE02043B.txt
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mstats-$datafile[27mstats-$datafile
+[?2004lstats-NENE02043B.txt: command not found
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mhistory | tail -n 5[27mhistory | tail -n 5
+[?2004l  222  for datafile in NENE*A.txt NENE*B.txt; do    echo $datafile; done
+  223  for datafile in NENE*A.txt NENE*B.txt; do    echo $datafile stats-$datafile; done
+  224  for datafile in NENE*A.txt NENE*B.txt; do    echo $datafile ;bash goostats.sh $datafile stats-$datafile; done
+  225  stats-$datafile
+  226  history | tail -n 5
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ cd ..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data[00m$ cd exercise-data/lkna[K[K[K[Kalkanes
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mnano middle.sh[27mnano middle.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;73H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                                                              middle.sh                                                                       [1;155H(B[m[40d(B[0;7m^G(B[m Help[40;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[40;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[40;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[41d(B[0;7m^X(B[m Exit[41;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[41;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[41;120H(B[0;7mM-6(B[m Copy[41;137H(B[0;7m^Q(B[m Where Was[2d[?12l[?25h[?25l[39d[K[1;87H(B[0;7m*[155G(B[m[2d(B[0;1m[34mhead[35m -n[39m(B[m 15 octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[?12l[?25h[?25l[40;18H[22X[40;40H(B[0;7mM-D(B[m DOS Format    [40;69H          (B[0;7mM-A(B[m Append        [103G        [118G(B[0;7mM-B(B[m Backup File[K[41;2H(B[0;7mC(B[m Cancel[41;18H[22X[41;40H(B[0;7mM-M(B[m Mac Format      [41;69H          (B[0;7mM-P(B[m Prepend[21X[41;118H(B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: middle.sh                                                                                                                               [39;30H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[39;71H[1K (B[0;7m[ Writing... ](B[m[K[1;87H(B[0;7m [155G(B[m[39;71H(B[0;7m[ Wrote 1 line ](B[m[40;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is      (B[0;7m^K(B[m Cut[40;69H(B[0;7m^T(B[m Execute       (B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[118G  (B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[41;2H(B[0;7mX(B[m Exit  [41;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace       (B[0;7m^U(B[m Paste[41;69H(B[0;7m^J(B[m Justify       (B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[118G  (B[0;7mM-6(B[m Copy[41;137H(B[0;7m^Q(B[m Where Was[?12l[?25h[2;34H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mhead -n 15 octane.pdb | tail -n 5[27m[1Phead -n 15 octane.pdb | tail -n [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mbash middle.sh[27mbash middle.sh
+[?2004lATOM      9  H           1      -4.502   0.681   0.785  1.00  0.00
+ATOM     10  H           1      -5.254  -0.243  -0.537  1.00  0.00
+ATOM     11  H           1      -4.357   1.252  -0.895  1.00  0.00
+ATOM     12  H           1      -3.009  -0.741  -1.467  1.00  0.00
+ATOM     13  H           1      -3.172  -1.337   0.206  1.00  0.00
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mbash middle.sh octane.pdb[27mbash middle.sh octane.pdb
+[?2004lATOM      9  H           1      -4.502   0.681   0.785  1.00  0.00
+ATOM     10  H           1      -5.254  -0.243  -0.537  1.00  0.00
+ATOM     11  H           1      -4.357   1.252  -0.895  1.00  0.00
+ATOM     12  H           1      -3.009  -0.741  -1.467  1.00  0.00
+ATOM     13  H           1      -3.172  -1.337   0.206  1.00  0.00
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mnano middle.sh[27mnano middle.sh\[K
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;72H(B[0;7m[ Reading... ](B[m[39;71H(B[0;7m[ Read 1 line ](B[m[H(B[0;7m  GNU nano 6.2                                                              middle.sh                                                                       [1;155H(B[m[40d(B[0;7m^G(B[m Help[40;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[40;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[40;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[41d(B[0;7m^X(B[m Exit[41;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[41;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[41;120H(B[0;7mM-6(B[m Copy[41;137H(B[0;7m^Q(B[m Where Was[2d(B[0;1m[34mhead[35m -n[39m(B[m 15 octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h1[?25l[?12l[?25h5[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25hc[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25he[?25l[?12l[?25h.[?25l[39d[K[?12l[?25h[2;20H[?25l[?12l[?25hd[?25l[?12l[?25hb[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h5[?25l[1;87H(B[0;7m*[155G(B[m[?12l[?25h[2;32H[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h -[K[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25htai[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h -[K[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25hhea[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l(B[0;1m[34mhead[35m -n[39m(B[m (B[0;1m[33m"$2"[39m(B[m (B[0;1m[33m"$1"[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m (B[0;1m[33m"$3"[39m(B[m[?12l[?25h[?25l[40;18H[22X[40;40H(B[0;7mM-D(B[m DOS Format    [40;69H          (B[0;7mM-A(B[m Append        [103G        [118G(B[0;7mM-B(B[m Backup File[K[41;2H(B[0;7mC(B[m Cancel[41;18H[22X[41;40H(B[0;7mM-M(B[m Mac Format      [41;69H          (B[0;7mM-P(B[m Prepend[21X[41;118H(B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: middle.sh                                                                                                                               [39;30H(B[m[?12l[?25h[?25l[39;71H[1K (B[0;7m[ Writing... ](B[m[K[1;87H(B[0;7m [155G(B[m[39;71H(B[0;7m[ Wrote 1 line ](B[m[40;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is      (B[0;7m^K(B[m Cut[40;69H(B[0;7m^T(B[m Execute       (B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[118G  (B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[41;2H(B[0;7mX(B[m Exit  [41;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace       (B[0;7m^U(B[m Paste[41;69H(B[0;7m^J(B[m Justify       (B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[118G  (B[0;7mM-6(B[m Copy[41;137H(B[0;7m^Q(B[m Where Was[?12l[?25h[2;33H[?25l[39;51H(B[0;7m[ line  1/2 (50%), col 33/33 (100%), char 32/33 (96%) ](B[m[?12l[?25h[2;33H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mbash middle.sh pentane.pdb 15 5[27mbash middle.sh pentane.pdb 15 5
+[?2004lATOM      9  H           1       1.324   0.350  -1.332  1.00  0.00
+ATOM     10  H           1       1.271   1.378   0.122  1.00  0.00
+ATOM     11  H           1      -0.074  -0.384   1.288  1.00  0.00
+ATOM     12  H           1      -0.048  -1.362  -0.205  1.00  0.00
+ATOM     13  H           1      -1.183   0.500  -1.412  1.00  0.00
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mbash middle.sh pentane.pdb 20 5[27mbash middle.sh pentane.pdb 20 5
+[?2004lATOM     14  H           1      -1.259   1.420   0.112  1.00  0.00
+ATOM     15  H           1      -2.608  -0.407   1.130  1.00  0.00
+ATOM     16  H           1      -2.540  -1.303  -0.404  1.00  0.00
+ATOM     17  H           1      -3.393   0.254  -0.321  1.00  0.00
+TER      18              1
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mnano sorted.sh[27mnano sorted.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;73H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                                                              sorted.sh                                                                       [1;155H(B[m[40d(B[0;7m^G(B[m Help[40;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[40;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[40;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[41d(B[0;7m^X(B[m Exit[41;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[41;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[41;120H(B[0;7mM-6(B[m Copy[41;137H(B[0;7m^Q(B[m Where Was[2d[?12l[?25h[?25l[1;87H(B[0;7m*[39d(B[m[K[1;155H[2dwc(B[0;1m[35m -l[39m(B[m (B[0;1m[33m"$@"[39m(B[m [32m|[39m(B[m (B[0;1m[34msort[35m -n[39m(B[m[?12l[?25h[?25l[40;18H[22X[40;40H(B[0;7mM-D(B[m DOS Format    [40;69H          (B[0;7mM-A(B[m Append        [103G        [118G(B[0;7mM-B(B[m Backup File[K[41;2H(B[0;7mC(B[m Cancel[41;18H[22X[41;40H(B[0;7mM-M(B[m Mac Format      [41;69H          (B[0;7mM-P(B[m Prepend[21X[41;118H(B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: sorted.sh                                                                                                                               [39;30H(B[m[?12l[?25h[?25l[39;71H[1K (B[0;7m[ Writing... ](B[m[K[1;87H(B[0;7m [155G(B[m[39;71H(B[0;7m[ Wrote 1 line ](B[m[40;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is      (B[0;7m^K(B[m Cut[40;69H(B[0;7m^T(B[m Execute       (B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[118G  (B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[41;2H(B[0;7mX(B[m Exit  [41;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace       (B[0;7m^U(B[m Paste[41;69H(B[0;7m^J(B[m Justify       (B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[118G  (B[0;7mM-6(B[m Copy[41;137H(B[0;7m^Q(B[m Where Was[?12l[?25h[2;21H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mbash sorted.sh *.pdb ../creatures/[27m[7m*[27m[7m.dat[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ bash sorted.sh *.pdb ../creatures/*.dat
+[?2004l    9 methane.pdb
+   12 ethane.pdb
+   15 alkanes.pdb
+   15 propane.pdb
+   20 cubane.pdb
+   21 pentane.pdb
+   30 octane.pdb
+  163 ../creatures/basilisk.dat
+  163 ../creatures/minotaur.dat
+  163 ../creatures/original-basilisk.dat
+  163 ../creatures/original-minotaur.dat
+  163 ../creatures/original-unicorn.dat
+  163 ../creatures/unicorn.dat
+ 1100 total
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mhistory | tail -n 5 > redo-figure-[27m[7m3[27m[7m.sh[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ history | tail -n 5 > redo-figure-3.sh
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/alkanes[00m$ [7mcd ../../north-pacific-gyre/[27mcd ../../north-pacific-gyre/
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mnano do-stats.sh[27mnano do-stats.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;73H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                                                             do-stats.sh                                                                      [1;155H(B[m[40d(B[0;7m^G(B[m Help[40;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[40;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[40;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[41d(B[0;7m^X(B[m Exit[41;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[41;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[41;120H(B[0;7mM-6(B[m Copy[41;137H(B[0;7m^Q(B[m Where Was[2d[?12l[?25h[?25l[39d[K[1;88H(B[0;7m*[155G(B[m[2d[36m# Calculate stats for data files.[3d[32mfor[39m(B[m datafile [32min[39m(B[m (B[0;1m[33m"$@"[4d(B[0m[32mdo[5;5H(B[0;1m[34mecho[39m(B[m (B[0;1m[31m$datafile[6;5H[39m(B[mbash goostats.sh (B[0;1m[31m$datafile[39m(B[m stats-(B[0;1m[31m$datafile[7d(B[0m[32mdone[39m(B[m[?12l[?25h[?25l[40;18H[22X[40;40H(B[0;7mM-D(B[m DOS Format    [40;69H          (B[0;7mM-A(B[m Append        [103G        [118G(B[0;7mM-B(B[m Backup File[K[41;2H(B[0;7mC(B[m Cancel[41;18H[22X[41;40H(B[0;7mM-M(B[m Mac Format      [41;69H          (B[0;7mM-P(B[m Prepend[21X[41;118H(B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: do-stats.sh                                                                                                                             [39;32H(B[m[?12l[?25h[?25l[39;71H[1K (B[0;7m[ Writing... ](B[m[K[1;88H(B[0;7m [155G(B[m[39;70H(B[0;7m[ Wrote 6 lines ](B[m[40;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is      (B[0;7m^K(B[m Cut[40;69H(B[0;7m^T(B[m Execute       (B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[118G  (B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[41;2H(B[0;7mX(B[m Exit  [41;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace       (B[0;7m^U(B[m Paste[41;69H(B[0;7m^J(B[m Justify       (B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[118G  (B[0;7mM-6(B[m Copy[41;137H(B[0;7m^Q(B[m Where Was[?12l[?25h[7;5H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mbash do-stats.sh NENE*A.txt NENE*B.tx[27m[7mt[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ bash do-stats.sh NENE*A.txt NENE*B.txt
+[?2004lNENE01729A.txt
+NENE01736A.txt
+NENE01751A.txt
+NENE01812A.txt
+NENE01843A.txt
+NENE01978A.txt
+NENE02040A.txt
+NENE02043A.txt
+NENE01729B.txt
+NENE01751B.txt
+NENE01843B.txt
+NENE01978B.txt
+NENE02018B.txt
+NENE02040B.txt
+NENE02043B.txt
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ [7mbash do-stats.sh NENE*A.txt NENE*B.tx[27m[7mt[27m[7m | wc -l[27m[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ bash do-stats.sh NENE*A.txt NENE*B.txt | wc -l
+[?2004l15
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/north-pacific-gyre[00m$ cd ../north-pacific-gyre/[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexercise-data/writing/
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ cat haiku.txt
+[?2004lThe Tao that is seen
+Is not the true Tao, until
+You bring fresh toner.
+
+With searching comes loss
+and the presence of absence:
+"My Thesis" not found.
+
+Yesterday it worked
+Today it is not working
+Software is like that.
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ bash haiku.txt
+[?2004lhaiku.txt: line 1: The: command not found
+haiku.txt: line 2: Is: command not found
+haiku.txt: line 3: You: command not found
+haiku.txt: line 5: With: command not found
+haiku.txt: line 6: and: command not found
+haiku.txt: line 7: My Thesis: command not found
+haiku.txt: line 9: Yesterday: command not found
+haiku.txt: line 10: Today: command not found
+haiku.txt: line 11: Software: command not found
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ cat[K[K[K[7mgrep not haiku.txt[27mgrep not haiku.txt
+[?2004lIs [01;31m[Knot[m[K the true Tao, until
+"My Thesis" [01;31m[Knot[m[K found.
+Today it is [01;31m[Knot[m[K working
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mgrep The haiku.txt[27mgrep The haiku.txt
+[?2004l[01;31m[KThe[m[K Tao that is seen
+"My [01;31m[KThe[m[Ksis" not found.
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mgrep -w The haiku.txt[27mgrep -w The haiku.txt
+[?2004l[01;31m[KThe[m[K Tao that is seen
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mgrep -w "is not" haiku.txt[27mgrep -w "is not" haiku.txt
+[?2004lToday it [01;31m[Kis not[m[K working
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mgrep -n "it" haiku.txt[27mgrep -n "it" haiku.txt
+[?2004l[32m[K5[m[K[36m[K:[m[KW[01;31m[Kit[m[Kh searching comes loss
+[32m[K9[m[K[36m[K:[m[KYesterday [01;31m[Kit[m[K worked
+[32m[K10[m[K[36m[K:[m[KToday [01;31m[Kit[m[K is not working
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mgrep -n -w "the" haiku.txt[27mgrep -n -w "the" haiku.txt
+[?2004l[32m[K2[m[K[36m[K:[m[KIs not [01;31m[Kthe[m[K true Tao, until
+[32m[K6[m[K[36m[K:[m[Kand [01;31m[Kthe[m[K presence of absence:
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7m grep -n -w -i "the" haiku.txt[27m grep -n -w -i "the" haiku.txt # - i case insesnsitive
+[?2004l[32m[K1[m[K[36m[K:[m[K[01;31m[KThe[m[K Tao that is seen
+[32m[K2[m[K[36m[K:[m[KIs not [01;31m[Kthe[m[K true Tao, until
+[32m[K6[m[K[36m[K:[m[Kand [01;31m[Kthe[m[K presence of absence:
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mgrep -n -w -v "the" haiku.txt[27mgrep -n -w -v "the" haiku.txt
+[?2004l[32m[K1[m[K[36m[K:[m[KThe Tao that is seen
+[32m[K3[m[K[36m[K:[m[KYou bring fresh toner.
+[32m[K4[m[K[36m[K:[m[K
+[32m[K5[m[K[36m[K:[m[KWith searching comes loss
+[32m[K7[m[K[36m[K:[m[K"My Thesis" not found.
+[32m[K8[m[K[36m[K:[m[K
+[32m[K9[m[K[36m[K:[m[KYesterday it worked
+[32m[K10[m[K[36m[K:[m[KToday it is not working
+[32m[K11[m[K[36m[K:[m[KSoftware is like that.
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mgrep -r Yesterday .[27mgrep -r Yesterday .
+[?2004l[35m[K./haiku.txt[m[K[36m[K:[m[K[01;31m[KYesterday[m[K it worked
+[35m[K./LittleWomen.txt[m[K[36m[K:[m[K"[01;31m[KYesterday[m[K, when Aunt was asleep and I was trying to be as still as a
+[35m[K./LittleWomen.txt[m[K[36m[K:[m[K[01;31m[KYesterday[m[K at dinner, when an Austrian officer stared at us and then
+[35m[K./LittleWomen.txt[m[K[36m[K:[m[K[01;31m[KYesterday[m[K was a quiet day spent in teaching, sewing, and writing in my
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mgrep "of" haiku.txt[27mgrep "of" haiku.txt
+[?2004land the presence [01;31m[Kof[m[K absence:
+S[01;31m[Kof[m[Ktware is like that.
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ [7mgrep -E "^.o" haiku.txt[27mgrep -E "^.o" haiku.txt
+[?2004l[01;31m[KYo[m[Ku bring fresh toner.
+[01;31m[KTo[m[Kday it is not working
+[01;31m[KSo[m[Kftware is like that.
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data/writing[00m$ cd ..
+[?2004l[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ find .
+[?2004l.
+./alkanes
+./alkanes/alkanes.pdb
+./alkanes/cubane.pdb
+./alkanes/ethane.pdb
+./alkanes/lengths.txt
+./alkanes/methane.pdb
+./alkanes/middle.sh
+./alkanes/octane.pdb
+./alkanes/pentane.pdb
+./alkanes/propane.pdb
+./alkanes/redo-figure-3.sh
+./alkanes/sorted-lengths.txt
+./alkanes/sorted.sh
+./animal-counts
+./animal-counts/animals.csv
+./backup
+./backup/minotaur.dat
+./backup/unicorn.dat
+./creatures
+./creatures/basilisk.dat
+./creatures/done
+./creatures/echo
+./creatures/head
+./creatures/minotaur.dat
+./creatures/original-basilisk.dat
+./creatures/original-minotaur.dat
+./creatures/original-unicorn.dat
+./creatures/unicorn.dat
+./numbers.txt
+./project
+./project/data
+./project/results
+./writing
+./writing/haiku.txt
+./writing/LittleWomen.txt
+./writing/thesis_backup
+./writing/thesis_backup/quotations.txt
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ [7mfind . -type d[27mfind . -type d
+[?2004l.
+./alkanes
+./animal-counts
+./backup
+./creatures
+./project
+./project/data
+./project/results
+./writing
+./writing/thesis_backup
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ [7mfind . -type f[27mfind . -type f
+[?2004l./alkanes/alkanes.pdb
+./alkanes/cubane.pdb
+./alkanes/ethane.pdb
+./alkanes/lengths.txt
+./alkanes/methane.pdb
+./alkanes/middle.sh
+./alkanes/octane.pdb
+./alkanes/pentane.pdb
+./alkanes/propane.pdb
+./alkanes/redo-figure-3.sh
+./alkanes/sorted-lengths.txt
+./alkanes/sorted.sh
+./animal-counts/animals.csv
+./backup/minotaur.dat
+./backup/unicorn.dat
+./creatures/basilisk.dat
+./creatures/done
+./creatures/echo
+./creatures/head
+./creatures/minotaur.dat
+./creatures/original-basilisk.dat
+./creatures/original-minotaur.dat
+./creatures/original-unicorn.dat
+./creatures/unicorn.dat
+./numbers.txt
+./writing/haiku.txt
+./writing/LittleWomen.txt
+./writing/thesis_backup/quotations.txt
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ find . -type f -l
+[?2004lfind: unknown predicate `-l'
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ find . -type f | wc -l
+[?2004l28
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ find . -typr[Ke d | wc -l
+[?2004l10
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ find - [K[K. -type [K[K[K[K[K[K[K | wc -l
+[?2004l38
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ [7mfind . -name "*.txt"[27mfind . -name "*.txt"
+[?2004l./alkanes/lengths.txt
+./alkanes/sorted-lengths.txt
+./numbers.txt
+./writing/haiku.txt
+./writing/LittleWomen.txt
+./writing/thesis_backup/quotations.txt
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ [7mwc -l $(find . -name "*.txt")[27mwc -l $(find . -name "*.txt")
+[?2004l      0 ./alkanes/lengths.txt
+      7 ./alkanes/sorted-lengths.txt
+      5 ./numbers.txt
+     11 ./writing/haiku.txt
+  21022 ./writing/LittleWomen.txt
+      2 ./writing/thesis_backup/quotations.txt
+  21047 total
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ [7mgrep "searching" $(find . -name "*.txt")[27mgrep "searching" $(find . -name "*.txt")[C[C[C[1@ - "searching" $(find . -name "*.txt") [A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ [C[C[C[C[C[Cw "searching" $(find . -name "*.txt")[A(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ [C[C[C[C[C[C[C
+
+[?2004l[35m[K./writing/haiku.txt[m[K[36m[K:[m[KWith [01;31m[Ksearching[m[K comes loss
+[35m[K./writing/LittleWomen.txt[m[K[36m[K:[m[Ksitting on the top step, affected to be [01;31m[Ksearching[m[K for her book, but was
+[?2004h(base) ]0;mopu@LAPTOP-0EO4UTII: /mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[01;32mmopu@LAPTOP-0EO4UTII[00m:[01;34m/mnt/e/tiger training/tamlep/module_1/Assignment_1.1/shell-lesson-data/exercise-data[00m$ exit
+[?2004lexit
+
+Script done on 2024-10-03 14:54:53+05:30 [COMMAND_EXIT_CODE="0"]
